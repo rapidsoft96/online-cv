@@ -2,7 +2,7 @@ intro: "School projects: "
 projects:
   - project:
     title: Weather Forecast
-    link: "#hook"
+    link: "https://github.com/rapidsoft96/weatherForecast"
     tagline: "Javascript ,using jQuery , handlebars template and API from openweathermap.org"
   - project:
     title: Musician Magazine
