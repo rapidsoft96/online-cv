@@ -20,7 +20,7 @@ projects:
     title: Kiss menu
     link: "#"
     tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
-    - project:
+  - project:
     title: Student service
     link: "#"
     tagline: "C# "
