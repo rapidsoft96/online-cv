@@ -2,6 +2,8 @@
   name: Java
 - skill:
   name: Javascript
+-skill:
+  name: Node.js (udemy course)
 
 - skill:
   name: C / C++ / C#
