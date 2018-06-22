@@ -17,10 +17,13 @@ projects:
     link: "#"
     tagline: "Unity , C# "
   - project:
-    title: Kiss menu
-    link: "#"
-    tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
-  - project:
     title: Student service
     link: "#"
     tagline: "C# "
+    
+intro: "Private projects: "
+projects:
+   -project:
+    title: Ordering menu
+    link: "#"
+    tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
