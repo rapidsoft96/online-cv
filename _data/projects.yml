@@ -8,6 +8,10 @@ projects:
     title: Musician Magazine
     link: "#"
     tagline: "Java , SQLite studio for database"
+   -project:
+    title: Ordering menu
+    link: "#"
+    tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
   - project:
     title: Minesweeper
     link: "#"
@@ -20,10 +24,3 @@ projects:
     title: Student service
     link: "#"
     tagline: "C# "
-    
-intro: "Private projects: "
-projects:
-   -project:
-    title: Ordering menu
-    link: "#"
-    tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
