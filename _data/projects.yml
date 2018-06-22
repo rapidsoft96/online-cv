@@ -8,8 +8,8 @@ projects:
     title: Musician Magazine
     link: "#"
     tagline: "Java , SQLite studio for database"
-   -project:
-    title: Ordering menu
+  - project:
+    title: Ordering menu (private project)
     link: "#"
     tagline: "Java , android, tablet ordering system for restaurants,bars etc.. "
   - project:
